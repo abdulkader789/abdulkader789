@@ -6,7 +6,7 @@ I’m a **Front Mern-Stack Developer** from Bangladesh 🇧🇩 who is passionat
 
 <!-- - 🔭 I’m currently working on **Backend** -->
 
-- 🌱 I’m currently learning **TypeScript** **Next.js** **Redux**
+- 🌱 I’m currently creating projects using **TypeScript** **Next.js** **Redux**
 - 💬 Ask me about **Javascript, React or Anything**
 - 📫 How to reach me: [abdulemail789@gmail.com](mailto:abudlemail789@gmail.com)
 - 😄 Pronouns: he/him
